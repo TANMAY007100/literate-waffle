@@ -1,116 +1,159 @@
 import turtle as te
 
 
-def jump(tobj, distanz, winkel=0):
+screen_width = 2056
+screen_height = 1329
+flag_width = 900
+flag_height = 600
+
+
+def jump(tobj, distanz):
     tobj.penup()
-    tobj.right(winkel)
     tobj.forward(distanz)
-    tobj.left(winkel)
     tobj.pendown()
+
+def draw_band_line(band_turtle, distance, angle=0):
+    band_turtle.forward(distance)
+    band_turtle.right(angle)
+
+def draw_spoke(spoke_turtle, distance, direction="right", angle=0):
+    if direction == "left":
+        # Left angle tilt
+        spoke_turtle.left(angle)
+    else:
+        # Right angle tilt
+        spoke_turtle.right(angle)
+    # Distance to move forward from inside of center dot of Ashok Chakra to the edge of Inner white circle of Ashok Chakra.
+    spoke_turtle.forward(distance)
 
 # Initialize screen
 screen = te.Screen()
+te.title("Flag Of India")
 # The width:height ratio is 3:2
-screen.setup(900, 600)
+
+# TODO Make screen_height and screen_width
+screen.setup(flag_width, flag_height, ((screen_width / 2) - (flag_width / 2)), (screen_height / 2) - (flag_height / 2))
 
 # Orange Color
-t1 = te.Turtle()
-t1.penup()
-t1.setpos((-450, 300))
-t1.pendown()
-t1.color("#FF9933", "#FF9933") 
-t1.begin_fill()
-t1.forward(900)
-t1.right(90)
-t1.forward(200)
-t1.right(90)
-t1.forward(900)
-t1.right(90)
-t1.forward(200)
-t1.end_fill()
-t1.hideturtle()
+orange_band = te.Turtle()
+# Adjust the Turtle speed
+orange_band.speed('slow')
+orange_band.penup()
+orange_band.setpos((-(flag_width / 2), flag_height / 2))
+orange_band.pendown()
+orange_band.color("#FF9933", "#FF9933")
+orange_band.begin_fill()
+draw_band_line(orange_band, flag_width, 90)
+draw_band_line(orange_band, flag_height / 3, 90)
+draw_band_line(orange_band, flag_width, 90)
+draw_band_line(orange_band, flag_height / 3, 0)
+orange_band.end_fill()
+orange_band.hideturtle()
+
+# Calculate Green band position
+# Postion = negative of (Half of flag height + Flag height divide by 3)
+# As all three color bands are equally sized.
 
 # Green Color
-t3 = te.Turtle()
-t3.penup()
-t3.setpos((-450, -100))
-t3.pendown()
-t3.color("#138808", "#138808") 
-t3.begin_fill()
-t3.forward(900)
-t3.right(90)
-t3.forward(200)
-t3.right(90)
-t3.forward(900)
-t3.right(90)
-t3.forward(200)
-t3.end_fill()
-t3.hideturtle()
+green_band = te.Turtle()
+# Adjust the Turtle speed
+# green_band.speed('fast')
+green_band.penup()
+green_band.setpos((-(flag_width / 2), -(flag_height / 2) + (flag_height / 3)))
+green_band.pendown()
+green_band.color("#138808", "#138808") 
+green_band.begin_fill()
+draw_band_line(green_band, flag_width, 90)
+draw_band_line(green_band, flag_height / 3, 90)
+draw_band_line(green_band, flag_width, 90)
+draw_band_line(green_band, flag_height / 3, 0)
+green_band.end_fill()
+green_band.hideturtle()
 
-# Ashok Chakra
-t4 = te.Turtle()
-t4.penup()
-t4.setpos((0, -90))
-t4.pendown()
-t4.color("#000080", "#000080")
-t4.begin_fill()
-t4.circle(90)
-t4.end_fill()
-t4.setpos((0, -80))
-t4.color("#ffffff", "#ffffff")
-t4.begin_fill()
-t4.circle(80)
-t4.end_fill()
-# Simple Spokes
-t4.pencolor("navy")
-t4.left(90)
-t4.fd(160)
-t4.setpos(0, 0)
-for _ in range(23):
-    t4.left(15)
-    t4.fd(80)
-    t4.bk(80)
+# Ashok Chakra Start
+outer_circle = te.Turtle()
+# Adjust the Turtle speed
+# outer_circle.speed('slow')
+outer_circle.penup()
+outer_circle.setpos((0, -(185 / 2)))
+outer_circle.pendown()
+outer_circle.color("#000080", "#000080")
+outer_circle.begin_fill()
+# Radius: 185 / 2
+# TODO Make circle radius dynamic
+outer_circle.circle(185 / 2)
+outer_circle.end_fill()
+outer_circle.setpos((0, -80))
+outer_circle.hideturtle()
+
+
+# Inner Circle
+# Radius: (160 / 2)
+inner_circle = te.Turtle()
+# Adjust the Turtle speed
+# inner_circle.speed('slow')
+inner_circle.color("#ffffff", "#ffffff")
+inner_circle.penup()
+inner_circle.setpos((0, -80))
+inner_circle.pendown()
+inner_circle.begin_fill()
+inner_circle.circle(80)
+inner_circle.end_fill()
+inner_circle.hideturtle()
+
+
 # Center Dot
-t4.setpos((0, 0))
-t4.dot(28, "navy")
-t4.hideturtle()
+center_dot = te.Turtle()
+# Adjust the Turtle speed
+# center_dot.speed('slow')
+center_dot.setpos((0, 0))
+center_dot.dot(32, "navy")
+center_dot.hideturtle()
 
-# Diamond Spokes
-# starting_angle = 0
-# t5 = te.Turtle()
-# t5.setpos((1, 1))
-# for each_spoke in range(0, 24):
-#     t5.seth(starting_angle)
-#     t5.begin_poly()
-#     t5.color("navy", "navy")
-#     t5.begin_fill()
-#     t5.right(4)
-#     t5.fd(40)
-#     t5.left(5)
-#     t5.fd(40)
-#     t5.left(175)
-#     t5.fd(40)
-#     t5.left(5)
-#     t5.fd(40)
-#     t5.end_fill()
-#     t5.end_poly()
-#     starting_angle = starting_angle + 15
-#     t5.goto(1, 1)
-#     t5.seth(starting_angle)
-# t5.hideturtle()
+
+spokes_turtle = te.Turtle()
+# Adjust the Turtle speed
+# spokes_turtle.speed('fast')
+spokes_turtle.color('#000080', '#000080')
+spoke_angel = 3.8
+for i in range(24):
+    spokes_turtle.seth(spoke_angel)
+    # Go forward as per specification
+    # TODO: Though this is hardcoded need to find a way to make this dynamic according to Ashok Chakra radius. Same for angle title and 
+    spokes_turtle.forward(16.047)
+    # Right side of spoke
+    spokes_turtle.begin_fill()
+    draw_spoke(spokes_turtle, 34, "right", 8.61)
+    # Distance from this point to...
+    # first_point = spokes_turtle.pos()
+    draw_spoke(spokes_turtle, 34, "left", 8.61)
+    spokes_turtle.left(180)
+    # Left side of spoke
+    draw_spoke(spokes_turtle, 34, "right", 8.61)
+    # ...this point must be 6mm (or 6px) as described in specification.
+    # You can print the distance here and check: print (spokes_turtle.distance(first_point))
+    draw_spoke(spokes_turtle, 34, "left", 8.61)
+    spokes_turtle.end_fill()
+    spoke_angel = spoke_angel + 15
+    spokes_turtle.setpos((0, 0))
+    spokes_turtle.seth(0)
+spokes_turtle.hideturtle()
 
 radius = 80
-dotted_cricle = te.Turtle()
-initial_angle = 7.5
-dotted_cricle.left(initial_angle)
+dotted_circle = te.Turtle()
+# Adjust the Turtle speed
+# dotted_circle.speed('slow')
+initial_angle = 0
+initial_angle = initial_angle + 7.5
+dotted_circle.seth(initial_angle)
 for _ in range(24):
-    jump(dotted_cricle, radius)
-    dotted_cricle.pendown()
-    dotted_cricle.dot(8, "navy")
-    jump(dotted_cricle, -radius)
+    jump(dotted_circle, radius)
+    dotted_circle.pendown()
+    dotted_circle.dot(7, "navy")
+    jump(dotted_circle, -radius)
     initial_angle = initial_angle + 15
-    dotted_cricle.seth(initial_angle)
-dotted_cricle.hideturtle()
+    dotted_circle.seth(initial_angle)
+dotted_circle.hideturtle()
 
 # Main Loop
 te.done()
