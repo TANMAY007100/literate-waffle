@@ -9,8 +9,10 @@ Turtle library comes built-in with all versions of python so you are good to go 
 `python <directory/filename.py>`
 
 - flags
-    - Flag of India
+    - Flag Of India
     - Flag Of Japan
+    - Flag Of Bangladesh
+    - Flag Of United States Of America
 
 ## Flags
 
@@ -59,7 +61,7 @@ The national flag of the United States of America (often referred to as the Amer
 
 Reference: https://en.wikipedia.org/wiki/Flag_of_the_United_States
 
-Proportion [W:H] - 10:19
+Proportion [W:H] - 19:10
 
 Colors Used:
 
