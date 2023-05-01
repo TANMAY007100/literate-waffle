@@ -6,6 +6,12 @@ screen_height = 1329
 flag_width = 900
 flag_height = 600
 
+canvas_width = flag_width + 100
+canvas_height = flag_height + 100
+
+left_top_x = -(flag_width / 2)
+left_top_y = (flag_height / 2)
+
 
 def jump(tobj, distanz):
     tobj.penup()
@@ -32,14 +38,16 @@ te.title("Flag Of India")
 # The width:height ratio is 3:2
 
 # TODO Make screen_height and screen_width
-screen.setup(flag_width, flag_height, ((screen_width / 2) - (flag_width / 2)), (screen_height / 2) - (flag_height / 2))
+# Setup turtle window in the center of screen.
+# Add a 100 px
+screen.setup(canvas_width, canvas_height, ((screen_width / 2) - (canvas_width / 2)), (screen_height / 2) - (canvas_height / 2))
 
 # Orange Color
 orange_band = te.Turtle()
 # Adjust the Turtle speed
 orange_band.speed('slow')
 orange_band.penup()
-orange_band.setpos((-(flag_width / 2), flag_height / 2))
+orange_band.setpos((left_top_x, left_top_y))
 orange_band.pendown()
 orange_band.color("#FF9933", "#FF9933")
 orange_band.begin_fill()
@@ -59,7 +67,7 @@ green_band = te.Turtle()
 # Adjust the Turtle speed
 # green_band.speed('fast')
 green_band.penup()
-green_band.setpos((-(flag_width / 2), -(flag_height / 2) + (flag_height / 3)))
+green_band.setpos((left_top_x, -(left_top_y) + (flag_height / 3)))
 green_band.pendown()
 green_band.color("#138808", "#138808") 
 green_band.begin_fill()
