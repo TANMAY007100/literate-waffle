@@ -13,6 +13,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Japan
     - Flag Of Bangladesh
     - Flag Of United States Of America
+    - Flag Of Latvia
 
 ## Flags
 
@@ -78,3 +79,14 @@ Colors near to Pantone Identifier:
 Red: #B31942
 Blue: #0A3161
 White: #FFFFFF
+
+# Latvia
+The national flag of Latvia was used by independent Latvia from 1918 until the country was occupied by the Soviet Union in 1940. Its use was suppressed during Soviet rule. On 27 February 1990, shortly before the country regained its independence, the Latvian government re-adopted the traditional red-white-red flag.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Latvia
+
+Proportion [W:H] - 2:1
+
+Color Used:
+
+Red: #9D2235
