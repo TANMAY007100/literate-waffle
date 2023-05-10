@@ -14,6 +14,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Bangladesh
     - Flag Of United States Of America
     - Flag Of Latvia
+    - Flag Of Romania
 
 ## Flags
 
@@ -28,7 +29,7 @@ Proportion [W:H] - 3:2
 Colors Used:
 
 Orange: #FF9933
-Green: #138808
+Green: #138808🥲🥲🥲🥲🥲
 Ashok Chakra Blue: #000080
 
 
@@ -45,19 +46,19 @@ Red: #BE0028
 White: #FFFFFF
 
 
-# Bangladesh Flag
+### Bangladesh Flag
 The national flag of Bangladesh, was adopted officially on 17 January 1972. It consists of a red disc on top of a dark green banner. The red disc is offset slightly toward the hoist so that it appears centered when the flag is flying.
 
 Reference: https://en.wikipedia.org/wiki/Flag_of_Bangladesh
 
-Proportion [W:H] - 3:5
+Proportion [W:H] - 2:3
 
 Colors Used:
 
 Green: #006A4E
 White: #F42A41
 
-# United States Of America Flag
+### United States Of America Flag
 The national flag of the United States of America (often referred to as the American flag, or the U.S. flag) consists of thirteen equal horizontal stripes of red (top and bottom) alternating with white, with a blue rectangle in the canton (referred to specifically as the "union") bearing fifty small, white, five-pointed stars arranged in nine offset horizontal rows, where rows of six stars (top and bottom) alternate with rows of five stars. The 50 stars on the flag represent the 50 U.S. states, and the 13 stripes represent the thirteen British colonies that declared independence from Great Britain, and became the first states in the U.S.
 
 Reference: https://en.wikipedia.org/wiki/Flag_of_the_United_States
@@ -80,7 +81,7 @@ Red: #B31942
 Blue: #0A3161
 White: #FFFFFF
 
-# Latvia
+### Latvia
 The national flag of Latvia was used by independent Latvia from 1918 until the country was occupied by the Soviet Union in 1940. Its use was suppressed during Soviet rule. On 27 February 1990, shortly before the country regained its independence, the Latvian government re-adopted the traditional red-white-red flag.
 
 Reference: https://en.wikipedia.org/wiki/Flag_of_Latvia
@@ -90,3 +91,16 @@ Proportion [W:H] - 2:1
 Color Used:
 
 Red: #9D2235
+
+### Romania
+The national flag of Romania (Romanian: drapelul României) is a tricolour. The Constitution of Romania states that "The flag of Romania is tricolour; the colours are arranged vertically in the following order from the flagpole: blue, yellow, red"
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Romania
+
+Proportion [W:H] - 3:2
+
+Color Used:
+
+Blue: #002B7F
+Yellow: #FCD116
+Red: #CE1126
