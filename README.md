@@ -16,7 +16,12 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of United States Of America
     - Flag Of Latvia
     - Flag Of Romania
+    - Flag Of Norway
+    - Flag Of Cameroon
 <br/><br/>
+
+**Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
+
 ## **Flags:**
 
 ### **Indian Flag**
@@ -117,3 +122,16 @@ Proportion [W:H] - 11:8
 
 Red: #BA0C2F
 Blue: #00205B
+
+### **Cameroon**
+The national flag of Cameroon was adopted in its present form on 20 May 1975 after Cameroon became a unitary state. It is a vertical tricolour of green, red and yellow, with a five-pointed star in its center. There is a wide variation in the size of the central star, although it is always contained within the inside stripe.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Cameroon
+
+Proportion [W:H] - 3:2
+
+**Colors Used:**
+
+Green: #007A5E
+Red: #CE1126
+Yellow: #FCD116
