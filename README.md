@@ -49,7 +49,7 @@ Proportion [W:H] - 2:3
 
 **Colors Used:**
 
-Red: #BE0028
+Red: #BE0028</br>
 White: #FFFFFF</br></br>
 
 
@@ -62,7 +62,7 @@ Proportion [W:H] - 2:3
 
 **Colors Used:**
 
-Green: #006A4E
+Green: #006A4E</br>
 White: #F42A41</br></br>
 
 ### **United States Of America Flag**
@@ -74,9 +74,9 @@ Proportion [W:H] - 19:10
 
 **Colors Used:**
 
-Red: #B22234
-Blue: #3C3B6E
-White: #FFFFFF
+Red: #B22234</br>
+Blue: #3C3B6E</br>
+White: #FFFFFF</br>
 
 **Note:** Colors used are as specified in Federal Specification DDD-F-416F cloth color specifications found in the above referenced Wikipedia page.
 
@@ -84,8 +84,8 @@ There is a Bureau of Educational and Cultural Affairs style guidelines
 
 Colors near to Pantone Identifier:
 
-Red: #B31942
-Blue: #0A3161
+Red: #B31942</br>
+Blue: #0A3161</br>
 White: #FFFFFF</br></br>
 
 ### **Latvia**
@@ -121,8 +121,8 @@ Proportion [W:H] - 11:8
 
 **Colors Used:**
 
-Red: #BA0C2F
-Blue: #00205B
+Red: #BA0C2F</br>
+Blue: #00205B</br></br>
 
 ### **Cameroon**
 The national flag of Cameroon was adopted in its present form on 20 May 1975 after Cameroon became a unitary state. It is a vertical tricolour of green, red and yellow, with a five-pointed star in its center. There is a wide variation in the size of the central star, although it is always contained within the inside stripe.
@@ -133,8 +133,8 @@ Proportion [W:H] - 3:2
 
 **Colors Used:**
 
-Green: #007A5E
-Red: #CE1126
+Green: #007A5E</br>
+Red: #CE1126</br>
 Yellow: #FCD116</br></br>
 
 ### **Jordan**
@@ -149,4 +149,27 @@ Proportion [W:H] - 2:1
 Black: #007A5E</br>
 White: #FCD116</br>
 Green: #007A5E</br>
-Red: #CE1126</br>
+Red: #CE1126</br></br>
+
+### **Guyana**
+The flag of Guyana, known as The Golden Arrowhead, has been the national flag of Guyana since May, 1966 when the country became independent from the United Kingdom. It was designed by Whitney Smith, an American vexillologist (though originally without the black and white fimbriations, which were later additions suggested by the College of Arms in the United Kingdom).
+
+The colours are symbolic:
+
+* red for zeal and dynamism,
+* gold for mineral wealth,
+* green for agriculture and forests,
+* black for endurance, and
+* white for rivers and water.
+
+
+Reference: https://en.m.wikipedia.org/wiki/Flag_of_Guyana
+
+Proportion [W:H] - 5:3
+
+**Colors Used:**
+
+Red: #C01829</br>
+Black: #000000</br>
+Gold: #FFC303</br>
+Green: #25946A</br></br>
