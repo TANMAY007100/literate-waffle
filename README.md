@@ -18,7 +18,8 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Romania
     - Flag Of Norway
     - Flag Of Cameroon
-    - Flag Of Jordan
+    - Flag Of Guyana
+    - Flag Of Armenia
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -173,3 +174,16 @@ Red: #C01829</br>
 Black: #000000</br>
 Gold: #FFC303</br>
 Green: #25946A</br></br>
+
+### **Armenia**
+The national flag of Armenia, the Armenian Tricolour, consists of three horizontal bands of equal width, red on the top, blue in the middle, and apricot on the bottom. The Armenian Supreme Soviet adopted the current flag on 24 August 1990. On 15 June 2006, the Law on the National Flag of Armenia, governing its usage, was passed by the National Assembly of Armenia.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Armenia
+
+Proportion [W:H] - 2:1
+
+**Colors Used:**
+
+Red: #D90012</br>
+Blue: #0033A0</br>
+Orange (Apricot): #F2A800</br></br>
