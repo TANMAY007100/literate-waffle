@@ -20,6 +20,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Cameroon
     - Flag Of Guyana
     - Flag Of Armenia
+    - Flag Of Tonga
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -187,3 +188,15 @@ Proportion [W:H] - 2:1
 Red: #D90012</br>
 Blue: #0033A0</br>
 Orange (Apricot): #F2A800</br></br>
+
+### **Tonga**
+The flag of Tonga consists of a red field with a white canton charged with a red couped cross. Adopted in 1875 after being officially enshrined into the nation's constitution, it has been the flag of the Kingdom of Tonga since that year. The constitution stipulates that the national flag can never be changed.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Tonga
+
+Proportion [W:H] - 2:1
+
+**Colors Used:**
+
+Red: #C20000</br>
+White: #FFFFFF</br></br>
