@@ -18,9 +18,11 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Romania
     - Flag Of Norway
     - Flag Of Cameroon
+    - Flag Of Jordan
     - Flag Of Guyana
     - Flag Of Armenia
     - Flag Of Tonga
+    - Flag Of Sweden
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -200,3 +202,15 @@ Proportion [W:H] - 2:1
 
 Red: #C20000</br>
 White: #FFFFFF</br></br>
+
+### **Sweden**
+The national flag of Sweden consists of a yellow or gold Nordic cross (i.e. a horizontal cross extending to the edges, with the crossbar closer to the hoist than the fly) on a field of light blue. The Nordic cross design traditionally represents Christianity. The design and colours of the Swedish flag are believed to have been inspired by the present coat of arms of Sweden of 1442, which is blue divided quarterly by a cross pattée of gold, and modelled on the Danish flag. Blue and yellow have been used as Swedish colours at least since Magnus III's royal coat of arms of 1275.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Sweden
+
+Proportion [W:H] - 8:5
+
+**Colors Used:**
+
+Blue: #016AA9</br>
+Yellow: #FDCD00</br></br>
