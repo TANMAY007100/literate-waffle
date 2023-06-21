@@ -23,6 +23,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Armenia
     - Flag Of Tonga
     - Flag Of Sweden
+    - Flag Of Iceland
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -214,3 +215,16 @@ Proportion [W:H] - 8:5
 
 Blue: #016AA9</br>
 Yellow: #FDCD00</br></br>
+
+### **Iceland**
+The flag of Iceland was officially described in Law No. 34, set out on 17 June 1944, the day Iceland became a republic. The law is entitled "The Law of the National Flag of Icelanders and the State Arms" and describes the Icelandic flag as follows: The civil national flag of Icelanders is blue as the sky with a snow-white cross, and a fiery-red cross inside the white cross. The arms of the cross extend to the edge of the flag, and their combined width is 2⁄9, but the red cross 1⁄9 of the combined width of the flag. The blue areas are right angled rectangles, the rectilinear surfaces are parallel and the outer rectilinear surfaces as wide as them, but twice the length. The dimensions between the width and length are 18:25.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Iceland
+
+Proportion [W:H] - 25:18
+
+**Colors Used:**
+
+Blue: #02529C</br>
+Red: #DC1E35</br>
+White: #FFFFFF</br></br>
