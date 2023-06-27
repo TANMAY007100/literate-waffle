@@ -24,6 +24,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Tonga
     - Flag Of Sweden
     - Flag Of Iceland
+    - Flag Of Madagascar
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -227,4 +228,17 @@ Proportion [W:H] - 25:18
 
 Blue: #02529C</br>
 Red: #DC1E35</br>
+White: #FFFFFF</br></br>
+
+### **Madagascar**
+The national flag of Madagascar was adopted on 14 October 1958, two years before the independence as they prepared for a referendum on its status in the French Community. The colors of the flag represent Madagascar's history and traditional peasant classes. Red and white were the colors of the Merina kingdom, which was conquered by France in 1896. They were used in the flag of the last Merina monarch, Queen Ranavalona III. Green was the color of the Hova, the largest class of peasant commoners, who played a significant role in anti-French agitation and the independence movement.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Madagascar
+
+Proportion [W:H] - 25:18
+
+**Colors Used:**
+
+Red: #FC3B2E</br>
+Green: #027F36</br>
 White: #FFFFFF</br></br>
