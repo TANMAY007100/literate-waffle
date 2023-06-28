@@ -25,6 +25,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Sweden
     - Flag Of Iceland
     - Flag Of Madagascar
+    - Flag Of Djibouti
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -241,4 +242,18 @@ Proportion [W:H] - 25:18
 
 Red: #FC3B2E</br>
 Green: #027F36</br>
+White: #FFFFFF</br></br>
+
+### **Djibouti**
+The national flag of Djibouti is a horizontal flag bicolor with equal bands of light blue and light green, with a white, equilateral triangle at the hoist. In the center of the triangle is a red star. The light blue represents the sky and the sea, as well as the Somalis, green represents the everlasting green of the earth, as well as the Afars, white represents the colour of peace and the five point red star represents unity, the blood shed by the martyrs of independence, as well as Djibouti being one of the five regions inhabited by the Somali people.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Djibouti
+
+Proportion [W:H] - 3:2
+
+**Colors Used:**
+
+Red: #D7141A</br>
+Blue: #6AB2E7</br>
+Green: #12AD2B</br>
 White: #FFFFFF</br></br>
