@@ -26,6 +26,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Iceland
     - Flag Of Madagascar
     - Flag Of Djibouti
+    - Flag Of Seychelles
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -257,3 +258,18 @@ Red: #D7141A</br>
 Blue: #6AB2E7</br>
 Green: #12AD2B</br>
 White: #FFFFFF</br></br>
+
+### **Seychelles**
+The flag of Seychelles was adopted on 8 January 1996.[1] The current flag is the third used by the country since its independence from the United Kingdom on 29 June 1976.[2] The colours used in the current flag are the official colours of two of the country's major political parties: the Seychelles People's United Party and the Seychelles Democratic Party.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Seychelles
+
+Proportion [W:H] - 2:1
+
+**Colors Used:**
+
+Blue: #003D88</br>
+Yellow: #FCD955</br>
+Red: #D92323</br>
+White: #FFFFFF</br>
+Green: #007A3A</br></br>
