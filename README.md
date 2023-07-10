@@ -27,6 +27,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Madagascar
     - Flag Of Djibouti
     - Flag Of Seychelles
+    - Flag Of Hungary
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -260,7 +261,7 @@ Green: #12AD2B</br>
 White: #FFFFFF</br></br>
 
 ### **Seychelles**
-The flag of Seychelles was adopted on 8 January 1996.[1] The current flag is the third used by the country since its independence from the United Kingdom on 29 June 1976.[2] The colours used in the current flag are the official colours of two of the country's major political parties: the Seychelles People's United Party and the Seychelles Democratic Party.
+The flag of Seychelles was adopted on 8 January 1996. The current flag is the third used by the country since its independence from the United Kingdom on 29 June 1976. The colours used in the current flag are the official colours of two of the country's major political parties: the Seychelles People's United Party and the Seychelles Democratic Party.
 
 Reference: https://en.wikipedia.org/wiki/Flag_of_Seychelles
 
@@ -273,3 +274,17 @@ Yellow: #FCD955</br>
 Red: #D92323</br>
 White: #FFFFFF</br>
 Green: #007A3A</br></br>
+
+
+### **Hungary**
+The national flag of Hungary is a horizontal tricolour of red, white and green (red-white-green). In this exact form, it has been the official flag of Hungary since 23 May 1957. The flag's form originates from national republican movements of the 18th and 19th centuries, while its colours are from the Middle Ages. The current Hungarian tricolour flag is the same as the republican movement flag of the United Kingdom (used since 1816) and the colours in that form were already used at least since the coronation of Leopold II in 1790, predating the first use of the Italian Tricolour in 1797.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Hungary
+
+Proportion [W:H] - 2:1
+
+**Colors Used:**
+
+Red: #CE2939</br>
+White: #FFFFFF</br>
+Green: #477050</br></br>
