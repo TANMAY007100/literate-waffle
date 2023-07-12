@@ -28,6 +28,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Djibouti
     - Flag Of Seychelles
     - Flag Of Hungary
+    - Flag Of The Bahamas
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -288,3 +289,16 @@ Proportion [W:H] - 2:1
 Red: #CE2939</br>
 White: #FFFFFF</br>
 Green: #477050</br></br>
+
+### **The Bahamas**
+The national flag of the Commonwealth of The Bahamas consists of a black triangle situated at the hoist with three horizontal bands: aquamarine, gold and aquamarine. Adopted in 1973 to replace the British Blue Ensign defaced with the emblem of the Crown Colony of the Bahama Islands, it has been the flag of The Bahamas since the country gained independence that year. The design of the present flag incorporated the elements of various submissions made in a national contest for a new flag prior to independence.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_the_Bahamas
+
+Proportion [W:H] - 2:1
+
+**Colors Used:**
+
+Blue: #00778B</br>
+Yellow: #FFC72C</br>
+Black: #000000</br></br>
