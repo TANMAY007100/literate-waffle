@@ -29,6 +29,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Seychelles
     - Flag Of Hungary
     - Flag Of The Bahamas
+    - Flag Of Somalia
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -302,3 +303,15 @@ Proportion [W:H] - 2:1
 Blue: #00778B</br>
 Yellow: #FFC72C</br>
 Black: #000000</br></br>
+
+### **Somalia**
+The flag of Somalia, also known as the Somali flag, was adopted on October 12, 1954, and was designed by Mohammed Awale Liban. The flag was initially used within the Trust Territory of Somaliland before being adopted by the short-lived State of Somaliland and the Somali Republic. It is an ethnic flag for the Somali people; the flag's five-pointed star represents the five regions in which Somalis reside.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Somalia
+
+Proportion [W:H] - 3:2
+
+**Colors Used:**
+
+Blue: #4189DD</br>
+White: #FFFFFF</br></br>
