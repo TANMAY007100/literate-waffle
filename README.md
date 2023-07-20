@@ -30,6 +30,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Hungary
     - Flag Of The Bahamas
     - Flag Of Somalia
+    - Flag Of Colombia
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -315,3 +316,16 @@ Proportion [W:H] - 3:2
 
 Blue: #4189DD</br>
 White: #FFFFFF</br></br>
+
+### **Colombia**
+The national flag of Colombia symbolises Colombian independence from Spain, gained on 20 July 1810. It is a horizontal tricolor of yellow, blue and red. The yellow stripe takes up a half of the flag and the blue and red take up a quarter of the space each.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Colombia
+
+Proportion [W:H] - 3:2
+
+**Colors Used:**
+
+Red: #CE1126</br>
+Blue: #003893</br>
+Yellow: #FCD116</br></br>
