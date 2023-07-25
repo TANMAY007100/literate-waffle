@@ -31,6 +31,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of The Bahamas
     - Flag Of Somalia
     - Flag Of Colombia
+    - Flag Of Belgium
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -329,3 +330,17 @@ Proportion [W:H] - 3:2
 Red: #CE1126</br>
 Blue: #003893</br>
 Yellow: #FCD116</br></br>
+
+
+## **Belgium**
+The national flag of Belgium is a tricolour consisting of three equal vertical bands displaying the national colours of Belgium: black, yellow, and red. The colours were taken from the coat of arms of the Duchy of Brabant, and the vertical design may be based on the flag of France. When flown, the black band is nearest the pole (at the hoist side). It has the unusual proportions of 13∶15.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Belgium
+
+Proportion [W:H] - 15:13
+
+**Colors Used:**
+
+Black: #000000</br>
+Yellow: #FDDA24</br>
+Red: #CE1126</br></br>
