@@ -32,6 +32,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Somalia
     - Flag Of Colombia
     - Flag Of Belgium
+    - Flag Of Liberia
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -344,3 +345,17 @@ Proportion [W:H] - 15:13
 Black: #000000</br>
 Yellow: #FDDA24</br>
 Red: #CE1126</br></br>
+
+
+## **Liberia**
+The flag of Liberia or the Liberian flag, sometimes called the Lone Star (not to confused with The Lone Star State), bears a close resemblance to the flag of the United States, representing Liberia's founding by former black slaves from the United States and the Caribbean. They are both part of the stars and stripes flag family.
+
+Reference: https://en.m.wikipedia.org/wiki/Flag_of_Liberia
+
+Proportion [W:H] - 19:10
+
+**Colors Used:**
+
+Red: #C0032C</br>
+Blue: #002468</br>
+White: #FFFFFF</br></br>
