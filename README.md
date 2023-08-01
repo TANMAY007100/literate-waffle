@@ -34,6 +34,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Belgium
     - Flag Of Liberia
     - Flag Of Netherlands
+    - Flag Of Peru
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -373,4 +374,16 @@ Proportion [W:H] - 3:2
 
 Red: #AD1D25</br>
 Blue: #1E4785</br>
+White: #FFFFFF</br></br>
+
+## **Peru**
+The flag of Peru was adopted by the government of Peru in 1825, and modified in 1950. According to the article 49 of the Constitution of Peru, it is a vertical triband with red outer bands and a single white middle band. Depending on its use, it may be defaced with different emblems, and has different names. Flag day in Peru is celebrated on 7 June, the anniversary of the Battle of Arica.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Peru
+
+Proportion [W:H] - 3:2
+
+**Colors Used:**
+
+Red: #D91023</br>
 White: #FFFFFF</br></br>
