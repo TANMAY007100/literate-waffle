@@ -35,6 +35,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Liberia
     - Flag Of Netherlands
     - Flag Of Peru
+    - Flag Of Benin
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -387,3 +388,16 @@ Proportion [W:H] - 3:2
 
 Red: #D91023</br>
 White: #FFFFFF</br></br>
+
+## **Benin**
+The national flag of Benin is a flag consisting of two horizontal yellow and red bands on the fly side and a green vertical band at the hoist. Adopted in 1959 to replace the French Tricolour, it was the flag of the Republic of Dahomey until 1975, when the People's Republic of Benin was established.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Benin
+
+Proportion [W:H] - 3:2
+
+**Colors Used:**
+
+Green: #008850</br>
+Red: #E90929</br>
+Yellow: #FCD20F</br></br>
