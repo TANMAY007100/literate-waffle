@@ -36,6 +36,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Netherlands
     - Flag Of Peru
     - Flag Of Benin
+    - Flag Of Burkina Faso
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -401,3 +402,16 @@ Proportion [W:H] - 3:2
 Green: #008850</br>
 Red: #E90929</br>
 Yellow: #FCD20F</br></br>
+
+## **Flag Of Burkina Faso**
+The national flag of Burkina Faso is formed by two equal horizontal bands of red (top) and green, with a yellow five-pointed star resting in the center. The flag was adopted on 4 August 1984. The flag uses the Pan-African colours of Ethiopia, reflecting both a break with the country's colonial past and its unity with other African ex-colonies. The red is also said to symbolize the revolution and the green the abundance of agricultural and natural riches. The yellow star placed over the red and green stripes represents the guiding light of the revolution. The flag was adopted following the coup of 1983 which brought Thomas Sankara to power.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Burkina_Faso
+
+Proportion [W:H] - 3:2
+
+**Colors Used:**
+
+Red: #EF2B2D</br>
+Green: #009E49</br>
+Yellow: #FCD116</br></br>
