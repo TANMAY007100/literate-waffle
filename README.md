@@ -415,3 +415,15 @@ Proportion [W:H] - 3:2
 Red: #EF2B2D</br>
 Green: #009E49</br>
 Yellow: #FCD116</br></br>
+
+## **Flag Of Switzerland**
+The national flag of Switzerland displays a white cross in the centre of a square red field. The white cross is known as the Swiss cross or the federal cross. Its arms are equilateral, and their ratio of length to width is 7:6. The size of the cross in relation to the field was set in 2017 as 5:8. Alongside the flag of Vatican City, the Swiss flag is one of only two square national flags in the world.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Switzerland
+
+Proportion [W:H] - 1:1
+
+**Colors Used:**
+
+Red: #FF0000</br>
+White: #FFFFFF</br></br>
