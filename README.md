@@ -427,3 +427,16 @@ Proportion [W:H] - 1:1
 
 Red: #FF0000</br>
 White: #FFFFFF</br></br>
+
+## **Flag Of Bolivia**
+The flag of Bolivia is the national flag of the Plurinational State of Bolivia. It was originally adopted in 1851. The state and war flag is a horizontal tricolor of red, yellow and green with the Bolivian coat of arms in the center. According to one source, the red stands for Bolivia's brave soldiers, while the green symbolizes fertility and yellow the nation's mineral deposits.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Bolivia
+
+Proportion [W:H] - 22:15
+
+**Colors Used:**
+
+Red: #DA291C</br>
+Yellow: #007A33</br>
+Green: #007A33</br></br>
