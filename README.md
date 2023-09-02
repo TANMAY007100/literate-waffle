@@ -37,6 +37,8 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Peru
     - Flag Of Benin
     - Flag Of Burkina Faso
+    - Flag Of Bolivia
+    - Flag Of Vietnam
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -440,3 +442,15 @@ Proportion [W:H] - 22:15
 Red: #DA291C</br>
 Yellow: #007A33</br>
 Green: #007A33</br></br>
+
+## **Flag Of Vietnam**
+The national flag of Vietnam, formally the National Flag of the Socialist Republic of Vietnam, was designed in 1940 and used during an uprising against the French in southern Vietnam that year. The red background symbolizes revolution and bloodshed. The golden star represents the five main classes in Vietnamese society—intellectuals, farmers, workers, entrepreneurs, and soldiers.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Vietnam
+
+Proportion [W:H] - 3:2
+
+**Colors Used:**
+
+Red: #DA251D</br>
+Yellow: #FFFF00</br></br>
