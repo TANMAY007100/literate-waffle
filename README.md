@@ -37,8 +37,10 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Peru
     - Flag Of Benin
     - Flag Of Burkina Faso
+    - Flag Of Switzerland
     - Flag Of Bolivia
     - Flag Of Vietnam
+    - Flag Of Chad
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -454,3 +456,16 @@ Proportion [W:H] - 3:2
 
 Red: #DA251D</br>
 Yellow: #FFFF00</br></br>
+
+## **Flag Of Chad**
+The national flag of Chad is a vertical tricolour consisting (left to right) of a blue, a gold and a red field. Since the 1990s, its similarity to the flag of Romania has caused international discussion. In 2004, Chad asked the United Nations to examine the issue; however, Ion Iliescu, the President of Romania, announced no change would occur to the flag, as the existence of Romania's tricolour predates the existence of Chad as a whole.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Chad
+
+Proportion [W:H] - 3:2
+
+**Colors Used:**
+
+Blue: #002664</br>
+Yellow: #FECB00</br>
+Red: #C60C30</br></br>
