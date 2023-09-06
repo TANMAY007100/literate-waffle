@@ -41,6 +41,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Bolivia
     - Flag Of Vietnam
     - Flag Of Chad
+    - Flag Of Central African Republic
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -469,3 +470,18 @@ Proportion [W:H] - 3:2
 Blue: #002664</br>
 Yellow: #FECB00</br>
 Red: #C60C30</br></br>
+
+## **Flag Of Central African Republic**
+The flag of the Central African Republic was officially adopted in 1958. It has been retained since that time with the same design, four horizontal stripes of blue, white, green and yellow, and a single vertical band of red, with a yellow five-pointed star in the upper left corner.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_the_Central_African_Republic
+
+Proportion [W:H] - 3:2
+
+**Colors Used:**
+
+Blue: #003082</br>
+Green: #289728</br>
+Yellow: #FFCE00</br>
+Red: #D21034</br>
+White: #FFFFFF</br></br>
