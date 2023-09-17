@@ -42,6 +42,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Vietnam
     - Flag Of Chad
     - Flag Of Central African Republic
+    - Flag Of Honduras
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -484,4 +485,16 @@ Blue: #003082</br>
 Green: #289728</br>
 Yellow: #FFCE00</br>
 Red: #D21034</br>
+White: #FFFFFF</br></br>
+
+## **Flag Of Honduras**
+The flag of Honduras consists of three equal horizontal stripes of turquoise, white and turquoise, with five turquoise stars in a quincuncial pattern at the centre of the middle stripe. The two outer bands represent the Pacific Ocean and the Caribbean Sea, and also represent the blue sky and brotherhood. The inner band represents the land between the ocean and the sea, the peace and prosperity of its people, and purity of thoughts. The five stars represent the five nations of the former Federal Republic of Central America and the hope that the nations may form a union again.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Honduras
+
+Proportion [W:H] - 2:1
+
+**Colors Used:**
+
+Blue: #00BCE4</br>
 White: #FFFFFF</br></br>
