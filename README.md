@@ -43,6 +43,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Chad
     - Flag Of Central African Republic
     - Flag Of Honduras
+    - Flag Of Chile
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -497,4 +498,17 @@ Proportion [W:H] - 2:1
 **Colors Used:**
 
 Blue: #00BCE4</br>
+White: #FFFFFF</br></br>
+
+## **Flag Of Chile**
+The flag of Chile consists of two equal-height horizontal bands of white and red, with a blue square the same height as the white band in the canton, which bears a white five-pointed star in the center. It was adopted on 18 October 1817.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Chile
+
+Proportion [W:H] - 3:2
+
+**Colors Used:**
+
+Red: #D52B1E</br>
+Blue: #0039A6</br>
 White: #FFFFFF</br></br>
