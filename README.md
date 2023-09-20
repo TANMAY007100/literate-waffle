@@ -44,6 +44,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Central African Republic
     - Flag Of Honduras
     - Flag Of Chile
+    - Flag Of Bulgaria
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -511,4 +512,18 @@ Proportion [W:H] - 3:2
 
 Red: #D52B1E</br>
 Blue: #0039A6</br>
+White: #FFFFFF</br></br>
+
+## **Flag Of Bulgaria**
+The flag of Bulgaria is a tricolour consisting of three equal-sized horizontal bands of (from top to bottom) white, green, and red. The flag was first adopted after the 1877-1878 Russo-Turkish War, when Bulgaria gained de facto independence. The national flag at times was charged with the state emblem, especially during the communist era. The current flag was re-established with the 1991 Constitution of Bulgaria and was confirmed in a 1998 law.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Bulgaria
+
+Proportion [W:H] - 5:3
+
+**Colors Used:**
+
+Black: #000000</br>
+Green: #009B74</br>
+Red: #D01C1F</br>
 White: #FFFFFF</br></br>
