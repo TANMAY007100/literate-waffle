@@ -45,6 +45,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Honduras
     - Flag Of Chile
     - Flag Of Bulgaria
+    - Flag Of Mali
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -527,3 +528,16 @@ Black: #000000</br>
 Green: #009B74</br>
 Red: #D01C1F</br>
 White: #FFFFFF</br></br>
+
+## **Flag Of Mali**
+The national flag of Mali is a tricolour with three equal vertical stripes. From the hoist (the place where the flagpole meets the flag) the colours are green, gold, and red, the pan-African colours. The flag of Mali is almost identical to the flag of Guinea, with the exception that the colours are in reverse order.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Mali
+
+Proportion [W:H] - 3:2
+
+**Colors Used:**
+
+Green: #14B53A</br>
+Gold: #FCD116</br>
+Red: #CE1126</br></br>
