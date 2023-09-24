@@ -47,6 +47,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Bulgaria
     - Flag Of Mali
     - Flag Of Guinea-Bissau
+    - Flag Of Botswana
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -555,5 +556,18 @@ Proportion [W:H] - 2:1
 Red: #CE1126</br>
 Green: #009E49</br>
 Yellow: #FCD116</br>
+Black: #000000</br>
+White: #FFFFFF</br></br>
+
+## **Flag Of Botswana**
+The national flag of Botswana consists of a sky blue field cut horizontally in the centre by a black stripe with a thin white frame. Adopted in 1966 to replace the Union Jack, it has been the flag of the Republic of Botswana since the country gained independence that year. It is one of the few African flags that utilises neither the colours of the Pan-Africanist movement nor the colours of the country's leading political party.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Botswana
+
+Proportion [W:H] - 3:2
+
+**Colors Used:**
+
+Blue: #6DA9D2</br>
 Black: #000000</br>
 White: #FFFFFF</br></br>
