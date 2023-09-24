@@ -46,6 +46,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Chile
     - Flag Of Bulgaria
     - Flag Of Mali
+    - Flag Of Guinea-Bissau
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -541,3 +542,18 @@ Proportion [W:H] - 3:2
 Green: #14B53A</br>
 Gold: #FCD116</br>
 Red: #CE1126</br></br>
+
+## **Flag Of Guinea-Bissau**
+The national flag of Guinea-Bissau is a tricolour with three equal vertical stripes. From the hoist (the place where the flagpole meets the flag) the colours are green, gold, and red, the pan-African colours. The flag of Guinea-Bissau is almost identical to the flag of Guinea, with the exception that the colours are in reverse order.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Guinea-Bissau
+
+Proportion [W:H] - 2:1
+
+**Colors Used:**
+
+Red: #CE1126</br>
+Green: #009E49</br>
+Yellow: #FCD116</br>
+Black: #000000</br>
+White: #FFFFFF</br></br>
