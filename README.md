@@ -48,6 +48,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Mali
     - Flag Of Guinea-Bissau
     - Flag Of Botswana
+    - Flag Of Nigeria
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -570,4 +571,16 @@ Proportion [W:H] - 3:2
 
 Blue: #6DA9D2</br>
 Black: #000000</br>
+White: #FFFFFF</br></br>
+
+## **Flag Of Nigeria**
+The flag of Nigeria was designed in 1959 and first officially hoisted on 1 October 1960. The flag has three vertical bands of green, white, green. The two green stripes represent natural wealth, and the white represents peace and unity.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Nigeria
+
+Proportion [W:H] - 2:1
+
+**Colors Used:**
+
+Green: #008753</br>
 White: #FFFFFF</br></br>
