@@ -1,6 +1,18 @@
 import turtle as te
 import math
 
+def draw_tangent(turtle_obj):
+    start_point = turtle_obj.pos()
+    pt_line = te.Turtle()
+    pt_line.speed("fastest")
+    pt_line.penup()
+    pt_line.color("#FFCCDD")
+    pt_line.setpos(start_point)
+    pt_line.seth(turtle_obj.heading())
+    pt_line.down()
+    pt_line.forward(200)
+    pt_line.hideturtle()
+
 def draw_five_pointed_star(tobj: te.Turtle, n_vertices, radius, x_coord, y_coord, fill_color="#FFFFFF", pen_color="", speed="normal"):
     tobj.showturtle()
     phi = round((1 + math.sqrt(5)) / 2, 4)
@@ -25,11 +37,13 @@ def draw_five_pointed_star(tobj: te.Turtle, n_vertices, radius, x_coord, y_coord
         tobj.color(pen_color, fill_color)
     tobj.begin_fill()
     for _ in range(0, n_vertices):
-          tobj.forward(side)
-          tobj.left(outer_start_angle - vertex_angle)
-          tobj.forward(side)
-          tobj.right(outer_start_angle)
-
+        tobj.forward(side)
+        # Uncomment to draw tangents to verify shape geometry.
+        # Note: This is currently designed for pentagon star only.
+        # draw_tangent(tobj)
+        tobj.left(outer_start_angle - vertex_angle)
+        tobj.forward(side)
+        tobj.right(outer_start_angle)
     tobj.end_fill()
     tobj.penup()
     tobj.hideturtle()

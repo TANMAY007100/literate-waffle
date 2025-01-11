@@ -49,6 +49,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Guinea-Bissau
     - Flag Of Botswana
     - Flag Of Nigeria
+    - Flag Of Morocco
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -584,3 +585,15 @@ Proportion [W:H] - 2:1
 
 Green: #008753</br>
 White: #FFFFFF</br></br>
+
+## **Flag Of Morocco**
+The flag of Morocco is the flag used by the government of Morocco and has served as the national flag of Morocco since 17 November 1915. It has a red field with a green pentagram in the centre. The green star represents the five pillars of Islam, and the red represents the blood of the ancestors and unity.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Morocco
+
+Proportion [W:H] - 3:2
+
+**Colors Used:**
+
+Bright Red: #C1272D</br>
+Palm Green: #006233
