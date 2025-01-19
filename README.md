@@ -597,3 +597,15 @@ Proportion [W:H] - 3:2
 
 Bright Red: #C1272D</br>
 Palm Green: #006233
+
+## **Flag Of Ukraine**
+The national flag of Ukraine  consists of equally sized horizontal bands of blue and yellow. The blue and yellow bicolor flag was first seen during the 1848 Spring of Nations in Lemberg (Lviv), the capital of the Kingdom of Galicia and Lodomeria within the Austrian Empire. It was later adopted as a state flag by the short-lived Ukrainian People's Republic, the West Ukrainian People's Republic, and the Ukrainian State following the Russian Revolution.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Ukraine
+
+Proportion [W:H] - 3:2
+
+**Colors Used:**
+
+Yellow: #FFD800</br>
+Strong Azure: #0056B9</br></br>
