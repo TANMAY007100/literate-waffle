@@ -50,6 +50,8 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Botswana
     - Flag Of Nigeria
     - Flag Of Morocco
+    - Flag Of Ukraine
+    - Flag Of Nauru
 <br/><br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -599,7 +601,7 @@ Bright Red: #C1272D</br>
 Palm Green: #006233
 
 ## **Flag Of Ukraine**
-The national flag of Ukraine  consists of equally sized horizontal bands of blue and yellow. The blue and yellow bicolor flag was first seen during the 1848 Spring of Nations in Lemberg (Lviv), the capital of the Kingdom of Galicia and Lodomeria within the Austrian Empire. It was later adopted as a state flag by the short-lived Ukrainian People's Republic, the West Ukrainian People's Republic, and the Ukrainian State following the Russian Revolution.
+The national flag of Ukraine consists of equally sized horizontal bands of blue and yellow. The blue and yellow bicolor flag was first seen during the 1848 Spring of Nations in Lemberg (Lviv), the capital of the Kingdom of Galicia and Lodomeria within the Austrian Empire. It was later adopted as a state flag by the short-lived Ukrainian People's Republic, the West Ukrainian People's Republic, and the Ukrainian State following the Russian Revolution.
 
 Reference: https://en.wikipedia.org/wiki/Flag_of_Ukraine
 
@@ -609,3 +611,16 @@ Proportion [W:H] - 3:2
 
 Yellow: #FFD800</br>
 Strong Azure: #0056B9</br></br>
+
+## **Flag Of Nauru**
+Following the independence of Nauru, the flag of Nauru was raised for the first time. The flag, chosen in a local design competition, was adopted on independence day, 31 January 1968. The design symbolically depicts Nauru's geographical position, with a star just south of the Equator.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Nauru
+
+Proportion [W:H] - 2:1
+
+**Colors Used:**
+
+Blue: #012169</br>
+Yellow: #FFC72C</br>
+White: #FFFFFF</br></br>
