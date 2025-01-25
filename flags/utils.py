@@ -47,3 +47,34 @@ def draw_five_pointed_star(tobj: te.Turtle, n_vertices, radius, x_coord, y_coord
     tobj.end_fill()
     tobj.penup()
     tobj.hideturtle()
+
+def draw_isosceles_triangle(triangle_turtle, x, y, width, height, direction, c):
+    triangle_turtle.up()
+    triangle_turtle.goto(x, y)
+    triangle_turtle.seth(direction - 90)
+    triangle_turtle.fd(width / 2)
+    p1x, p1y = triangle_turtle.xcor(), triangle_turtle.ycor() # first point: bottom right
+    triangle_turtle.back(width)
+    p2x, p2y = triangle_turtle.xcor(), triangle_turtle.ycor() # second point: bottom left
+    triangle_turtle.goto(x, y)
+    triangle_turtle.seth(direction)
+    triangle_turtle.fd(height)
+    p3x, p3y = triangle_turtle.xcor(), triangle_turtle.ycor() # third point: top
+    triangle_turtle.goto(p1x, p1y)
+    triangle_turtle.down()
+    triangle_turtle.color("", c)
+    triangle_turtle.begin_fill()
+    triangle_turtle.goto(p2x, p2y)
+    triangle_turtle.goto(p3x, p3y)
+    triangle_turtle.goto(p1x, p1y)
+    triangle_turtle.end_fill()
+
+def draw_nauru_star(triangles, x_axis, y_axis, radius):
+    n = 12
+    width = 2 * radius * math.sin(math.radians(180 / n))
+    height = 40
+    for i in range(n):
+        x = x_axis + (radius * math.cos(math.radians(180 / n)) * math.cos(math.radians(i * 360 / n)))
+        y = (radius * math.cos(math.radians(180 / n)) * math.sin(math.radians(i * 360 / n))) + y_axis
+        draw_isosceles_triangle(triangles, x, y, width, height, i * 360 / n, '#FFFFFF')
+    triangles.hideturtle()
