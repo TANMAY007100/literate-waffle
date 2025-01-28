@@ -52,7 +52,8 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Morocco
     - Flag Of Ukraine
     - Flag Of Nauru
-<br/><br/>
+    - Flag Of Lithuania
+<br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
 
@@ -494,7 +495,7 @@ Blue: #003082</br>
 Green: #289728</br>
 Yellow: #FFCE00</br>
 Red: #D21034</br>
-White: #FFFFFF</br></br>
+White: #FFFFFF</br>
 
 ## **Flag Of Honduras**
 The flag of Honduras consists of three equal horizontal stripes of turquoise, white and turquoise, with five turquoise stars in a quincuncial pattern at the centre of the middle stripe. The two outer bands represent the Pacific Ocean and the Caribbean Sea, and also represent the blue sky and brotherhood. The inner band represents the land between the ocean and the sea, the peace and prosperity of its people, and purity of thoughts. The five stars represent the five nations of the former Federal Republic of Central America and the hope that the nations may form a union again.
@@ -506,7 +507,7 @@ Proportion [W:H] - 2:1
 **Colors Used:**
 
 Blue: #00BCE4</br>
-White: #FFFFFF</br></br>
+White: #FFFFFF</br>
 
 ## **Flag Of Chile**
 The flag of Chile consists of two equal-height horizontal bands of white and red, with a blue square the same height as the white band in the canton, which bears a white five-pointed star in the center. It was adopted on 18 October 1817.
@@ -519,7 +520,7 @@ Proportion [W:H] - 3:2
 
 Red: #D52B1E</br>
 Blue: #0039A6</br>
-White: #FFFFFF</br></br>
+White: #FFFFFF</br>
 
 ## **Flag Of Bulgaria**
 The flag of Bulgaria is a tricolour consisting of three equal-sized horizontal bands of (from top to bottom) white, green, and red. The flag was first adopted after the 1877-1878 Russo-Turkish War, when Bulgaria gained de facto independence. The national flag at times was charged with the state emblem, especially during the communist era. The current flag was re-established with the 1991 Constitution of Bulgaria and was confirmed in a 1998 law.
@@ -623,4 +624,17 @@ Proportion [W:H] - 2:1
 
 Blue: #012169</br>
 Yellow: #FFC72C</br>
-White: #FFFFFF</br></br>
+White: #FFFFFF</br>
+
+## **Flag Of Lithuania**
+The national flag of Lithuania consists of a horizontal tricolour of yellow, green, and red.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_Lithuania
+
+Proportion [W:H] - 5:3
+
+**Colors Used:**
+
+Yellow: #FDB913</br>
+Green: #006A44</br>
+Red: #C1272D</br>
