@@ -53,6 +53,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Ukraine
     - Flag Of Nauru
     - Flag Of Lithuania
+    - Flag Of The Gambia
 <br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -638,3 +639,17 @@ Proportion [W:H] - 5:3
 Yellow: #FDB913</br>
 Green: #006A44</br>
 Red: #C1272D</br>
+
+## **Flag Of The Gambia**
+<hr/>
+The flag of The Gambia consists of three horizontal red, blue and green bands separated by two thin white lines. Adopted in 1965 to replace the British Blue Ensign defaced with the arms of the Gambia Colony and Protectorate, it has been the flag of the Republic of the Gambia since the country gained independence that year.
+
+Reference: https://en.wikipedia.org/wiki/Flag_of_the_Gambia
+
+Proportion [W:H] - 3:2
+
+**Colors Used:**
+
+Red: #CE1126<br/>
+Blue: #0C1C8C<br/>
+Green: #3A7728<br/>
