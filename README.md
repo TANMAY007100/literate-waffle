@@ -55,6 +55,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of Lithuania
     - Flag Of The Gambia
     - Flag Of Estonia
+    - Flag Of Kuwait
 <br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -656,7 +657,7 @@ Blue: #0C1C8C<br/>
 Green: #3A7728<br/>
 
 ## **Flag Of Estonia**
-<hr/>
+---
 The national flag of Estonia is a tricolour featuring three equal horizontal bands of blue at the top, black in the centre, and white at the bottom. The flag is called sinimustvalge (<abbr title="literal translation">lit.</abbr> 'blue-black-white') in Estonian.
 
 Reference: https://en.wikipedia.org/wiki/Flag_of_Estonia
@@ -668,3 +669,18 @@ Proportion [W:H] - 11:7
 Blue: #0072CE<br/>
 Black: #000000<br/>
 White: #FFFFFF<br/>
+
+## **Flag Of Kuwait**
+---
+The flag of Kuwait was adopted on 7 September 1961, and officially hoisted 24 November 1961. Before 1961, the flag of Kuwait was red and white, like those of other Persian Gulf states at the time, with the field being red and words or charges being written in white. It is the only flag in the world featuring an acute trapezium.
+
+Reference: [Flag Of Kuwait](https://en.wikipedia.org/wiki/Flag_of_Kuwait)
+
+Proportion [W:H] - 2:1
+
+**Colors Used:**
+
+Green: #00965E<br/>
+White: #FFFFFF<br/>
+Red: #CE1126<br/>
+Black: #000000<br/>
