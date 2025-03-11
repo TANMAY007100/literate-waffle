@@ -56,6 +56,7 @@ Turtle library comes built-in with all versions of python so you are good to go 
     - Flag Of The Gambia
     - Flag Of Estonia
     - Flag Of Kuwait
+    - Flag Of Mauritius
 <br/>
 
 **Note:** The width is considered to be the longest horizontal part of the flag and the height is considered to be the longest vertical part of the flag.
@@ -593,6 +594,8 @@ Green: #008753</br>
 White: #FFFFFF</br></br>
 
 ## **Flag Of Morocco**
+
+---
 The flag of Morocco is the flag used by the government of Morocco and has served as the national flag of Morocco since 17 November 1915. It has a red field with a green pentagram in the centre. The green star represents the five pillars of Islam, and the red represents the blood of the ancestors and unity.
 
 Reference: https://en.wikipedia.org/wiki/Flag_of_Morocco
@@ -605,6 +608,8 @@ Bright Red: #C1272D</br>
 Palm Green: #006233
 
 ## **Flag Of Ukraine**
+
+---
 The national flag of Ukraine consists of equally sized horizontal bands of blue and yellow. The blue and yellow bicolor flag was first seen during the 1848 Spring of Nations in Lemberg (Lviv), the capital of the Kingdom of Galicia and Lodomeria within the Austrian Empire. It was later adopted as a state flag by the short-lived Ukrainian People's Republic, the West Ukrainian People's Republic, and the Ukrainian State following the Russian Revolution.
 
 Reference: https://en.wikipedia.org/wiki/Flag_of_Ukraine
@@ -617,6 +622,8 @@ Yellow: #FFD800</br>
 Strong Azure: #0056B9</br></br>
 
 ## **Flag Of Nauru**
+
+---
 Following the independence of Nauru, the flag of Nauru was raised for the first time. The flag, chosen in a local design competition, was adopted on independence day, 31 January 1968. The design symbolically depicts Nauru's geographical position, with a star just south of the Equator.
 
 Reference: https://en.wikipedia.org/wiki/Flag_of_Nauru
@@ -630,9 +637,11 @@ Yellow: #FFC72C</br>
 White: #FFFFFF</br>
 
 ## **Flag Of Lithuania**
+
+---
 The national flag of Lithuania consists of a horizontal tricolour of yellow, green, and red.
 
-Reference: https://en.wikipedia.org/wiki/Flag_of_Lithuania
+Reference: [Flag Of Lithuania](https://en.wikipedia.org/wiki/Flag_of_Lithuania)
 
 Proportion [W:H] - 5:3
 
@@ -643,10 +652,11 @@ Green: #006A44</br>
 Red: #C1272D</br>
 
 ## **Flag Of The Gambia**
-<hr/>
+
+---
 The flag of The Gambia consists of three horizontal red, blue and green bands separated by two thin white lines. Adopted in 1965 to replace the British Blue Ensign defaced with the arms of the Gambia Colony and Protectorate, it has been the flag of the Republic of the Gambia since the country gained independence that year.
 
-Reference: https://en.wikipedia.org/wiki/Flag_of_the_Gambia
+Reference: [Flag Of_the_Gambia](https://en.wikipedia.org/wiki/Flag_of_the_Gambia)
 
 Proportion [W:H] - 3:2
 
@@ -657,10 +667,11 @@ Blue: #0C1C8C<br/>
 Green: #3A7728<br/>
 
 ## **Flag Of Estonia**
+
 ---
 The national flag of Estonia is a tricolour featuring three equal horizontal bands of blue at the top, black in the centre, and white at the bottom. The flag is called sinimustvalge (<abbr title="literal translation">lit.</abbr> 'blue-black-white') in Estonian.
 
-Reference: https://en.wikipedia.org/wiki/Flag_of_Estonia
+Reference: [Flag_of_Estonia](https://en.wikipedia.org/wiki/Flag_of_Estonia)
 
 Proportion [W:H] - 11:7
 
@@ -671,6 +682,7 @@ Black: #000000<br/>
 White: #FFFFFF<br/>
 
 ## **Flag Of Kuwait**
+
 ---
 The flag of Kuwait was adopted on 7 September 1961, and officially hoisted 24 November 1961. Before 1961, the flag of Kuwait was red and white, like those of other Persian Gulf states at the time, with the field being red and words or charges being written in white. It is the only flag in the world featuring an acute trapezium.
 
@@ -684,3 +696,19 @@ Green: #00965E<br/>
 White: #FFFFFF<br/>
 Red: #CE1126<br/>
 Black: #000000<br/>
+
+## **Flag Of Mauritius**
+
+---
+The national flag of Mauritius, also known as The Four Bands, was adopted upon independence, 12 March 1968. It consists of four horizontal bands of equal width, coloured (from top to bottom) red, blue, yellow, and green. The flag was recorded at the College of Arms in London on 9 January 1968.
+
+Reference: [Flag_of_Mauritius](https://en.wikipedia.org/wiki/Flag_of_Mauritius)
+
+Proportion [W:H] - 3:2
+
+**Colors Used:**
+
+Red: #EB2436<br/>
+Blue: #131A6D<br/>
+Yellow: #FFD600<br/>
+Green: #00A650<br/>
